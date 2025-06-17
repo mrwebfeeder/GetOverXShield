@@ -75,6 +75,6 @@ Visit [https://getoverx.com](https://getoverx.com) for more information.
 
 ## ⚠ Disclaimer
 
-This software is intended for educational and legitimate use only.  
+This software is intended for legitimate use only.  
 Misuse for unethical or illegal purposes is strictly prohibited.
 
