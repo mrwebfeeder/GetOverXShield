@@ -44,7 +44,7 @@ You can use it **free for 60 days** without feature limitations.
 
 ## 📦 Installation
 
-1. Download the latest installer from the [Releases](https://github.com/youruser/getoverxshield/releases) page.
+1. Download the latest installer from the [[Releases]([https://github.com/youruser/getoverxshield/releases](https://github.com/mrwebfeeder/GetOverXShield/releases))](https://github.com/mrwebfeeder/GetOverXShield/releases) page.
 2. Run the installer as administrator.
 3. Follow the setup wizard.
 4. Launch GetOverXShield from the Start Menu.
