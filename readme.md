@@ -1,5 +1,5 @@
 
-# GetOverXShield
+# Get Over X Shield
 
 **Next-Generation Security Suite for Windows**  
 All-in-one protection: Antivirus, Firewall, HIPS, Sandbox, EDR, and more.
@@ -34,12 +34,15 @@ You can use it **free for 60 days** without feature limitations.
 ---
 
 ## 🧩 System Requirements
-
-- **OS:** Windows 10 or 11 (x64)
+Modern Engine
+- **OS:** Windows 10 or 11 (x64) Windows Server 2019 -2026
 - **RAM:** 2 GB minimum
-- **Disk:** 162.222 MB available space
-- **.NET Runtime:** .NET 8.0 or newer
+- **Disk:** 250.00 MB available space
 
+Legacy Engine
+- **OS:** Windows 7 or 8 (x64) Windows Server 2012R2 - 2016
+- **RAM:** 2 GB minimum
+- **Disk:** 250.00 MB available space
 ---
 
 ## 📦 Installation
@@ -56,6 +59,14 @@ You can use it **free for 60 days** without feature limitations.
 This software is provided under a **free trial license for 60 days**.  
 For commercial or extended use, a valid license must be purchased.  
 Visit [https://getoverx.com](https://getoverx.com) for more information.
+
+- 3 Version are Available
+- CORE: basic protection or aditional security hardware
+- PRO: Complete protection, for independant endpoints
+- SERVER: Windows Server Edition (Telemetry)
+- Linux Server: Linux Server Edition (AV, Rootkits and Security)
+- Linux Desktop: Basic Protection for Ubuntu-Debian Linux Based
+- MAC: Context Protection For Mac OS
 
 ---
 
